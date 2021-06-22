@@ -1,0 +1,23 @@
+.corpo {
+    background-color: #b6b1ff;
+    color: #240496;
+}
+
+.main {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.section {
+    width: 50%;
+    height: 100%;
+}
+
+.space {
+    margin-top: 3%;
+}
+
+.texto {
+    color: #240496;
+}
